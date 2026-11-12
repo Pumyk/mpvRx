@@ -1,10 +1,10 @@
-# mpvRex
+# mpvRx
 
-A libmpv-powered Android media player. **mpvRx** provides the foundation, with a
-set of features ported across from **REX-Player**.
+A libmpv-powered Android media player. This is a community build of the upstream
+**mpvRx** project, with a set of features ported across from **REX-Player**.
 
-This repository hosts the combined build. It is a community merge, not the work of
-a single author, and it stands entirely on the two upstream projects below.
+This repository hosts that combined build. It is a merge, not the work of a single
+author, and it stands entirely on the two upstream projects credited below.
 
 | | |
 |---|---|
